@@ -1,0 +1,1 @@
+export const sum = (first, sercond) => first + sercond;
